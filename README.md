@@ -8,6 +8,7 @@
 - Ethereum wiki,https://github.com/ethereum/wiki/wiki/%5BJapanese%5D-Ethereum-TOC  
 
 # Techinical  
+- Ethereum入門,https://book.ethereum-jp.net/  
 - Ethereum whitepaper原文,https://github.com/ethereum/wiki/wiki/White-Paper  
 - 技術者向け Ethereumの基礎知識 (イーサリアム、エセリウム),http://qiita.com/hshimo/items/20abfc5942d4dd5d3e04#white-paper  
 

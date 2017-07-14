@@ -11,6 +11,8 @@
 - Ethereum入門,https://book.ethereum-jp.net/  
 - Ethereum whitepaper原文,https://github.com/ethereum/wiki/wiki/White-Paper  
 - 技術者向け Ethereumの基礎知識 (イーサリアム、エセリウム),http://qiita.com/hshimo/items/20abfc5942d4dd5d3e04#white-paper  
+- Proof of Stake とは何か?,http://qiita.com/hshimo/items/625d548c61b9cab8d8d0
+- Proof of Stake Design Philosophy,https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51  
 
 # Development  
 - Github,https://github.com/ethereum  
